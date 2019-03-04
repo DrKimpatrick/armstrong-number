@@ -1,4 +1,5 @@
 # armstrong-number
+https://drkimpatrick.github.io/armstrong-number/ (GITHUB PAGES) OR https://codepen.io/drkimpatrick/project/editor/DvGkRg# (CODE PEN)
 You are required to make
 use of only HTML, CSS and JavaScript, and NO FRAMEWORKS.
 
